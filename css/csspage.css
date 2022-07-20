@@ -1,0 +1,31 @@
+#tableo{
+    text-align: right;
+    border-radius:10px;
+    border: 1px solid black;
+    
+}
+#tableo:hover{
+
+    border: 1px solid rgb(6, 154, 90);
+    box-shadow: 8px 8px 10px #535353;
+}
+th, td {
+    padding :10px;
+    border: 1px solid black;
+    }
+    h2{
+border: 1px solid black;
+border-radius:10px;
+box-shadow: 8px 8px 10px #535353;
+text-shadow: 4px 4px 20px rgb(237, 229, 229);
+    }
+    h2:hover{
+        
+      text-shadow:4px 4px 10px rgb(14, 213, 140); ;
+
+    }
+    p:hover{
+        
+        text-shadow:4px 4px 10px rgb(14, 213, 140); ;
+  
+      }
